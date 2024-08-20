@@ -1,4 +1,4 @@
-package Oldfathw;
+package oldfathw;
 
 /**
  * Hello world!
