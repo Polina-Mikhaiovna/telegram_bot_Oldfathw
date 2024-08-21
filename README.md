@@ -1,0 +1,1 @@
+# In the future, you should consider storing your token in a dedicated settings file or in environment variables.
